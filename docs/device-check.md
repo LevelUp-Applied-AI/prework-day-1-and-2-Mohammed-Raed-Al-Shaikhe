@@ -1,7 +1,7 @@
 # Device Check — [Mohammed Al-Shaikh]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
+**Date completed:** [2026-02-23]
 **GitHub username:** [Mohammed-Raed-Al-Shaikhe]
 
 ---
