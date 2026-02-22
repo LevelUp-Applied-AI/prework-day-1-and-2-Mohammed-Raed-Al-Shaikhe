@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [Mohammed Al-Shaikh]
 
 **Program:** AI.SPIRE Pre-Work
 **Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**GitHub username:** [Mohammed-Raed-Al-Shaikhe]
 
 ---
 
@@ -36,10 +36,10 @@
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+**Result:** [Confirmed via System Settings]
 
 ---
 
 ## Device Notes
 
-[Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+[None]
