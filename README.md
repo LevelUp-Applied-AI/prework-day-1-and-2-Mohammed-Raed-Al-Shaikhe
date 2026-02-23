@@ -36,6 +36,6 @@ This repository contains my prework and setup tasks for the program.
 
 ```bash
 git clone https://github.com/LevelUp-Applied-AI/<your-username>-prework.git
-cd <your-username>-prework
+cd Mohammed-Raed-Al-Shaikhe-prework
 
 7. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
