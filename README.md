@@ -27,7 +27,9 @@ Configure the pull request:
 4. The autograder runs automatically — check the PR for results
 5. Your TA reviews and merges when everything passes
 
-## About
+6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+  ## About
 
 My name is Mohammed. I am starting the LevelUp Applied AI program. 
 This repository contains my prework and setup tasks for the program.
@@ -36,6 +38,4 @@ This repository contains my prework and setup tasks for the program.
 
 ```bash
 git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-Mohammed-Raed-Al-Shaikhe.git
-cd Mohammed-Raed-Al-Shaikhe-prework
-
-7. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+cd prework-day-1-and-2-Mohammed-Raed-Al-Shaikhe/
